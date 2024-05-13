@@ -12,6 +12,10 @@ body{
     align-items: center;
     padding: 20px;
 }
+
+.logo > img {
+    mix-blend-mode: darken;
+}
 nav{
     flex: 1;
     text-align: right;
